@@ -34,9 +34,8 @@ const goingto = ()=>{
     <ul className="menu__list r-list col">
       <li className="menu__group" ><a href={url}  className="menu__link r-link text-underlined">Boutaina</a></li>
       <li className="menu__group" onClick={goingto} ><a href={url} className="menu__link r-link text-underlined">About</a></li>
-      <li className="menu__group"><a href={url} className="menu__link r-link text-underlined">My Skills</a></li>
+      <li className="menu__group"><a href={url} className="menu__link r-link text-underlined">Skills</a></li>
       <li className="menu__group"><a href={url} className="menu__link r-link text-underlined">Work</a></li>
-      <li className="menu__group"><a href={url} className="menu__link r-link text-underlined">Services</a></li>
       <li className="menu__group"><a href={url} className="menu__link r-link text-underlined">Contact Me</a></li>
     </ul>
   </nav>

@@ -1,0 +1,21 @@
+.tag{
+    font-style: italic;
+    font-weight: lighter;
+    color: #4B4C4F;
+}
+
+
+.root{
+    
+    text-align: start;
+    background-color: black;
+}
+.aboutparagraph{
+    color: #fff;
+    font-size: 18px;
+}
+.imageSkills{
+    height: 500px;
+    width: 500px;
+    text-align: end;
+}
