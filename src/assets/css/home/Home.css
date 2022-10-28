@@ -1,0 +1,21 @@
+div{
+    background-color: transparent;
+}
+.fullbtn{
+    background-color: transparent;
+    color: var(--second-white-color);
+    border-color: var(--second-white-color);
+    padding: 10px;
+    margin: 20px;
+    
+}
+.backgroundimg{
+    background-image: url("../../images/home/back.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titleparagraph{
+    color:var(--second-white-color);
+    font-size: 30px;
+}
